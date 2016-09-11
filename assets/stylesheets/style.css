@@ -1,0 +1,19 @@
+body {
+	background: url("../images/pentagon.png");
+}
+
+.font {
+	font-family: "canterlight";
+	font-size: 80px;
+	text-align: center;
+	background-color: transparent;
+}
+
+.btn {
+	font-size: 30px;
+}
+
+.game {
+	padding: 20px;
+	text-align: center;
+}
